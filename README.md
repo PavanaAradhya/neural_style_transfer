@@ -3,7 +3,6 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Neural Style Transfer</title>
 </head>
 <body>
     <h1>🎨 Neural Style Transfer using TensorFlow Hub (Single & Multiple Styles)</h1>
